@@ -12,8 +12,9 @@
 
 # Regionwise_Market_Distribution:
 >The region-wise market distribution is succinctly depicted through a pie chart, providing a clear and intuitive snapshot of the relative proportions of each geographic region within the dataset. This visual representation offers an immediate understanding of the composition of the data, highlighting the dominant categories and their respective contributions.
-> ![pichart](![image](https://github.com/AmanGupta5555/Information-Visualization/assets/96855667/de84f9c9-622b-421a-9b86-2ab4c7332f73)
-> ![pichart02]![image](https://github.com/AmanGupta5555/Information-Visualization/assets/96855667/ddf1a9ff-91b0-40d1-9e90-5a53ae11a8a2)
+>
+> ![image](https://github.com/AmanGupta5555/Information-Visualization/assets/96855667/de84f9c9-622b-421a-9b86-2ab4c7332f73)
+> ![image](https://github.com/AmanGupta5555/Information-Visualization/assets/96855667/ddf1a9ff-91b0-40d1-9e90-5a53ae11a8a2)
 
 # Global_Sales_Breakdown:
 >The report provides a comprehensive analysis of sales, returns, and delivery timelines on a country-wise basis. This detailed breakdown offers invaluable insights into the performance of specific products or services across different regions.
