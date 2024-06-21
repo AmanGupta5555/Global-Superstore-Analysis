@@ -1,5 +1,5 @@
 # Information-Visualization
->Hi Myself Tanishque Kumar(RA2111003010086) and my team-mate Aman Gupta(RA2111003010095) from CSE core B1 section presenting our Infomation Visualization project.
+>Hi Myself Aman Gupta(RA2111003010095) from CSE core B1 section presenting our Infomation Visualization project.
 >Visualization of the Global super store sales of different commodities in different regions.
 
 # OverView:
